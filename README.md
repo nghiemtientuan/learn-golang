@@ -6,3 +6,8 @@ Learn golang
 ```
 tdl training run
 ```
+
+- Run file go
+```
+go run [filePath]
+```
